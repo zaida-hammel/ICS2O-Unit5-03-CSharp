@@ -24,6 +24,6 @@ class Program
         {
             Console.WriteLine("You cannot watch any rated movies alone");
         }
-      Console.WriteLine("Done.");
+        Console.WriteLine("Done.");
     }
 }
