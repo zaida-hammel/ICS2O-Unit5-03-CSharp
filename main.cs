@@ -22,7 +22,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("You are eligible to watch G and PG rated movies alone.");
+            Console.WriteLine("You cannot watch any rated movies alone");
         }
       Console.WriteLine("Done.");
     }
